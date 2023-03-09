@@ -19,13 +19,13 @@ En realidad tengo varias cosas que me gustan, ¿bueno quien no verdad? mis pasat
 Y en cuanto a temas me gusta mucho la fantasia medieval, la ciencia ficción y el terros o suspenso.
 
 ### Contactos
-Me puedes encontrar a travez de:
-| Redes | Nombre |
-| ----------- | ----------- |
-| Facebook Personal | Angel G Legorreta González |
-| Facebook de artista | Almeja González |
-| Twitter | Sr. Almeja |
-| Instagram | sr._almeja |
-| Correo | angel.selidercm@gmail.com |
+Me puedes encontrar a travez de:\
+| Redes | Nombre |\
+| ----------- | ----------- |\
+| Facebook Personal | Angel G Legorreta González |\
+| Facebook de artista | Almeja González |\
+| Twitter | Sr. Almeja |\
+| Instagram | sr._almeja |\
+| Correo | angel.selidercm@gmail.com |\
 | Telefono | 5638656831 |
 
