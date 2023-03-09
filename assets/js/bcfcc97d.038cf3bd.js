@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangel_lego=self.webpackChunkangel_lego||[]).push([[1955],{7149:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Docus/blog/tags/facebook","allTagsPath":"/Docus/blog/tags","count":1}')}}]);

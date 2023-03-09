@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangel_lego=self.webpackChunkangel_lego||[]).push([[5096],{7536:e=>{e.exports=JSON.parse('{"permalink":"/Docus/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkangel_lego=self.webpackChunkangel_lego||[]).push([[346],{2653:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Docus/blog/tags/docusaurus","allTagsPath":"/Docus/blog/tags","count":4}')}}]);
