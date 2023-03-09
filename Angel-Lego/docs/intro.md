@@ -1,47 +1,31 @@
----
-sidebar_position: 1
----
+# QUIÉN SOY YO
 
-# Tutorial Intro
+### Datos Personales
+Mi nombre es **Angel Gabriel Legorreta González** tengo **23 años** de edad y yo soy ese de abajo.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![este soy yo](./img/IO.jpg)
 
-## Getting Started
+### ¿Qué soy?
+Actualmente estudio 3 carreras y un taller extra asi que si me buscan estare o muerto o ocupado :c.
+Estudio diseño grafico y comunicación visual en la Facultad de artes, Programacion aquí en Amerike, Locucion enfocada en doblaje en la escula Magic Voices los sabados y por ultimo un taller de teatro terminando doblaje.
+¿Por que tanto se preguntara? me odio ;D.
 
-Get started by **creating a new site**.
+### ¿Qué es lo que espero?
+Bueno en realidad no me odio, la verdad, mi objetivo de vida es el tener mi propio estudio de videojuegos algún día y para lograrlo creo que lo mejor será saber un poco de todo. Del lado del artista y la publicidad, facultad de artes, del lado del programador, Amerike y por ultimo, siempre fui alguien extremadamente timido y reservado, para librarme de eso me metí a doblaje, y pues mejore bastante.
+Mi objetivo al salir será empezar a crear juegos y proyectos para ahorrar y fundar de manera oficial mi estudio.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### ¿Qué es lo que me gusta?
+En realidad tengo varias cosas que me gustan, ¿bueno quien no verdad? mis pasatiempos favoritos siempre han sido jugar videojuegos, pero con el paso del tiempo tambien empece a disfrutar el dibujar, ver anime y leer mangas, el modelado 3D y la animacion, hacer doblaje y actuar me gusta bastante y ultimamente me estoy forzando a leer bastante, siempre eh sido un pesimo lector, pero es algo que quiero cambiar.
+Y en cuanto a temas me gusta mucho la fantasia medieval, la ciencia ficción y el terros o suspenso.
 
-### What you'll need
+### Contactos
+Me puedes encontrar a travez de:
+| Redes | Nombre |
+| ----------- | ----------- |
+| Facebook Personal | Angel G Legorreta González |
+| Facebook de artista | Almeja González |
+| Twitter | Sr. Almeja |
+| Instagram | sr._almeja |
+| Correo | angel.selidercm@gmail.com |
+| Telefono | 5638656831 |
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

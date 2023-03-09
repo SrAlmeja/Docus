@@ -1,0 +1,8 @@
+{
+    "label": "Videojuegos",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Los tres juegos que me cambiarón"
+    }
+  }

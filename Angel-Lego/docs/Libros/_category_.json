@@ -1,0 +1,8 @@
+{
+    "label": "Libros",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Mis 3 Libros"
+    }
+  }
