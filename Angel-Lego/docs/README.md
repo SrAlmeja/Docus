@@ -3,7 +3,7 @@
 ### Datos Personales
 Mi nombre es **Angel Gabriel Legorreta González** tengo **23 años** de edad y yo soy ese de abajo.
 
-![este soy yo](../img/IO.jpg)
+![este soy yo](./img/IO.jpg)
 
 ### ¿Qué soy?
 Actualmente estudio 3 carreras y un taller extra asi que si me buscan estare o muerto o ocupado :c.
